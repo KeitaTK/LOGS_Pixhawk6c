@@ -1,0 +1,2 @@
+Timestamp,F_curr_X_N,F_curr_Y_N,F_curr_Z_N,A_X,A_Y,B_X,B_Y,C_X,C_Y,F_pred_X_N,F_pred_Y_N,F_pred_Z_N,Pixhawk_Time_ms,Prediction_Time_ms,Cold_Start_Progress,phase_error_rad,estimated_freq_Hz,phase_correction_rad,PhaseCorr_raw
+2026/01/15 17:21:28.505,0.161,0.162,-23.521,-0.001,0.0,-0.001,-0.0,0.16,0.163,0.159,0.163,-23.514,432300,,,,,,
